@@ -1,0 +1,9 @@
+  Solução com Pseudocódigo
+
+  1. Início;
+  2. Leia n;
+  3. n1 = n-1;
+  4. n2 = 10-n;
+  5. a = (n1 x 10) + n2;
+  6. Imprima a;
+  7. Fim;
